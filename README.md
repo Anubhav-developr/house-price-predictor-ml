@@ -1,6 +1,6 @@
 # Advanced House Price Predictor (ML) 🏠🤖
 
-An interactive machine learning system built inside WSL2 (Ubuntu) using Python and Scikit-Learn. The application utilizes a Linear Regression model trained on residential property metrics to dynamically estimate house valuations based on custom user  inputs.
+An interactive machine learning system built inside WSL2 (Ubuntu) using Python and Scikit-Learn. The application utilizes a Linear Regression model trained on residential property metrics to dynamically estimate house valuations based on custom user inputs.
 
 ## Features ✨
 - **Supervised ML Pipeline:** Implements Scikit-Learn's `Linear Regression` for multi-variable continuous data tracking.
